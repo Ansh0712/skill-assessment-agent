@@ -1,0 +1,21 @@
+JANE SMITH - Software Engineer
+jane.smith@email.com | github.com/janesmith
+
+EXPERIENCE:
+Software Engineer, E-Commerce Startup (2021-Present)
+- Built REST APIs using Python/Django serving 500K daily users
+- Managed PostgreSQL databases, wrote complex queries and migrations
+- Implemented Redis caching reducing API latency by 40%
+- Deployed services using Docker on AWS EC2
+
+Junior Developer, Web Agency (2019-2021)
+- Full-stack development with Python/Flask and React
+- MySQL database design and management
+- Basic AWS usage (S3, EC2)
+
+SKILLS:
+Python, Django, Flask, PostgreSQL, MySQL, Redis, Docker, AWS (EC2, S3),
+Git, REST APIs, HTML/CSS, JavaScript, React
+
+EDUCATION:
+B.Sc. Computer Science, State University (2019)

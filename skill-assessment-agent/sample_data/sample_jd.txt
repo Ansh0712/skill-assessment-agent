@@ -1,0 +1,19 @@
+Senior Backend Engineer - FinTech Payments Platform
+
+We are looking for a Senior Backend Engineer to build and scale our
+real-time payment processing platform handling 10M+ transactions/day.
+
+Requirements:
+- 5+ years Python development (FastAPI/Django)
+- Strong PostgreSQL and database optimization experience
+- Redis caching and message queue systems (RabbitMQ/Kafka)
+- RESTful API design and microservices architecture
+- Docker and Kubernetes for container orchestration
+- CI/CD pipelines (GitHub Actions, Jenkins)
+- Experience with AWS services (EC2, ECS, Lambda, S3)
+- Understanding of payment protocols (PCI-DSS compliance)
+
+Nice to have:
+- Go or Rust for performance-critical services
+- Event-driven architecture / CQRS patterns
+- Observability stack (Prometheus, Grafana, ELK)
